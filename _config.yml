@@ -4,7 +4,7 @@ SEOTitle: 叶哥的博客 | YeGe Blog
 header-img: img/home-bg.jpg
 email: yemulin0923@163.com
 description: "叶哥的学习博客|To be the light "
-keyword: "叶哥"
+keyword: "叶哥 Leecode"
 url: "https://yemulinnb.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -106,31 +106,28 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
+        title: "黑娃",
+        href: "https://starkschroedinger.github.io"
     },{
-        title: "Sherry Wu",
-        href: "https://xuechundesign.github.io"
-    },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "JiyinYiyong",
-        href: "http://tiye.me/"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
+        title: "黄玄",
+        href: "https://Huxpro.github.io"
     }
+    #    title: "Luke 的自留地",
+    #   href: "http://hmqk1995.github.io"
+    #},{
+    #    title: "Ebn's Blog",
+    #    href: "http://ebnbin.com/"
+    #},{
+    #    title: "SmdCn's Blog",
+    #    href: "http://blog.smdcn.net"
+    #},{
+    #    title: "JiyinYiyong",
+    #    href: "http://tiye.me/"
+    #},{
+    #    title: "David's Game",
+    #    href: "https://www.ruoyaowu.com/"
+    #},{
+     #   title: "DHong Say",
+     #   href: "http://dhong.co"
+    
 ]
